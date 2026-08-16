@@ -35,9 +35,9 @@ The Arduino side needs the `Adafruit BNO055`, `Adafruit Unified Sensor`, and `Ms
 
 ## Demo
 
-<video src="https://github.com/wattai/affordable-inverted-pendulum/raw/main/videos/VID_20260815_231143121.mp4" controls width="480"></video>
+<img src="images/demo.gif" width="320" alt="The robot balancing on two wheels">
 
-▶ [videos/VID_20260815_231143121.mp4](videos/VID_20260815_231143121.mp4) — the robot balancing with the controller described below.
+The robot balancing with the controller described below. Full-resolution clip with audio: [videos/VID_20260815_231143121.mp4](videos/VID_20260815_231143121.mp4).
 
 ## Current best design (2026-08-15)
 
