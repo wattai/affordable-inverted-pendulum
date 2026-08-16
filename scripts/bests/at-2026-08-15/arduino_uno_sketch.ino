@@ -70,7 +70,7 @@ float T_sample = 0.010f;
 
 float r_wheel = 2.7f * 0.01f;
 float g = 9.8f;
-float m_body = 250.0f * 0.001f;
+float m_body = 350.0f * 0.001f;
 float h_body = 8.0f * 0.01f;
 float m_wheel = 10.0f * 0.001f;
 

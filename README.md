@@ -67,6 +67,7 @@ with $Q = \mathrm{diag}(10, 1, 0, 1, 0, \ldots, 0)$ and $R = 1.0$. Unobservable 
 
 | Path | Contents |
 | --- | --- |
+| [docs/specs/hardware/](docs/specs/hardware/) | Hardware specification: wiring diagram, pin assignment, gear ratios, and measured physical parameters |
 | [scripts/bests/](scripts/bests/) | Snapshots of the best-performing configurations, with the design script and the exact sketch flashed to the robot |
 | [scripts/system-design/](scripts/system-design/) | Model / LQR / observer design experiments (`calc-optimal-gain-*.py`) |
 | [scripts/motor-calibration/](scripts/motor-calibration/) | Motor and encoder calibration scripts |
